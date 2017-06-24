@@ -12,3 +12,5 @@ The spoofing can be either via hosts file , DNS cache poisoning, or ISP.
 	3. internet switched off
 3. if Internal check and nslookup match declare No hijack else perform whois lookup
 4. By comparing the whois lookup we can find if the IP belongs to the same company and ensure there is no Dns Spoofing.
+
+![Example](https://s24.postimg.org/x9yq8o0id/image.png)
