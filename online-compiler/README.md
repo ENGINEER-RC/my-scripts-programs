@@ -17,16 +17,16 @@ This Mini Project is a Demonstration of Compiler as a service
 
 1. Upload ".java" file.
 
-![Upload file](https://s17.postimg.org/h0atcyuan/image.png =500x)
+![Upload file](https://s17.postimg.org/h0atcyuan/image.png)
 
 2. If file gets compiled at compiled time.
 
-![If Compiled](https://s17.postimg.org/6hff1jh0f/image.png =500x)
+![If Compiled](https://s17.postimg.org/6hff1jh0f/image.png)
 
 3. If compilation error occurs.
 
-![Compilation Errors](https://s17.postimg.org/ab8vaoycf/image.png =500x)
+![Compilation Errors](https://s17.postimg.org/ab8vaoycf/image.png)
 
 4. Excuting downloaded jar file.
 
-![Executing Jar](https://s17.postimg.org/3m2buod0f/image.png =500x)
+![Executing Jar](https://s17.postimg.org/3m2buod0f/image.png)
