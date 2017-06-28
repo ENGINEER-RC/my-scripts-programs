@@ -24,4 +24,8 @@
 4. [Kmeans Algorithm on 2D Dataset](https://gist.github.com/ENGINEER-RC/a29010081b42fb581b0151a6c2b81ff5)
 5. [Kmeans Algorithm on Linear Dataset ( Based on Random Input )](https://gist.github.com/ENGINEER-RC/5f590713a1aa34cdd48e8889df27ad19)
 
+### Batch Scripts ##
+
+1. [Segregates files and reduces load time of the current folder in the file manager](https://gist.github.com/ENGINEER-RC/db8358c607728e6252e2139e93564268)
+
 
